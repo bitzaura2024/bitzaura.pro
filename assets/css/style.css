@@ -37,7 +37,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #c0c0c0;
+  background: #301934;
 }
 
 #preloader:before {
@@ -45,8 +45,8 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #42d1d5;
-  border-top-color: #ffd700;
+  border: 6px solid #05f5fe;
+  border-top-color: #fdfe03;
   border-bottom-color: #fff;
   border-radius: 50%;
   width: 60px;
@@ -483,7 +483,7 @@ h6 {
   }
 
   #hero .hero-img img {
-    width: 200%;
+    width: 80%;
   }
 }
 
